@@ -1,2 +1,2 @@
-#!/bin/bash
-chown o+x u+x,g+x
+#!/bin/bashi
+chown 640 444
