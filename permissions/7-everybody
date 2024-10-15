@@ -1,2 +1,2 @@
-#!/bin/bashi
-chown 640 444
+#!/bin/bash
+chown 640 44
